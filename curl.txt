@@ -1,0 +1,7 @@
+curl -X POST http://localhost:3000/students \
+-H "Content-Type: application/json" \
+-d '{
+  "name": "Sameer Shaikh",
+  "age": 21,
+  "course": "Computer Science"
+}'

@@ -1,0 +1,4 @@
+npm init -y   # Initialize Node.js project
+npm install express mongoose body-parser  # Install required dependencies
+
+
